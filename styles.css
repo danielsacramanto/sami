@@ -1,8 +1,10 @@
 body {
-	background: #EAEAE8;
+	background: #f0f0f0;
     font-size: 20px;
     max-width: 800px;
     text-align: justify;
     margin-left: 20%;
     margin-top: 3%;
 	}
+h1 {font-size: 24px;
+    text-align: center;}
