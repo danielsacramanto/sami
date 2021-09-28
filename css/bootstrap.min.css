@@ -162,6 +162,11 @@ address{
     font-size: 30px;
 }
 
+.downloadbtn, downloadbtn {
+    font-size: 20px;
+    margin-left: 10px;
+    color: #00eaff;
+}
 
 ol,ul{
     padding-left:2rem
