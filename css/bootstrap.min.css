@@ -154,6 +154,13 @@ address{
     font-style:normal;
     line-height:inherit
 }
+
+.fa, .fas {
+    font-weight: 900;
+    color: #0edcee;
+}
+
+
 ol,ul{
     padding-left:2rem
 }
