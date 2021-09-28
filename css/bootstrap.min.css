@@ -6734,40 +6734,6 @@ textarea.form-control-lg{
 }
 
 
-$loader-svg-width: 250px;
-$loader-svg-height: 200px;
-
-
-.svg-def {
-    position: absolute;
-    width: 0;
-    height: 0;
-}
-
-body, .main-view-container {
-    width: 100%;
-    height: 100vh;
-    margin: 0;
-    padding: 0;
-    background-color: hsla(150, 2%, 16%, 1);
-}
-
-.loader-container {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-left: -$loader-svg-width / 2;
-    margin-top: -$loader-svg-height / 2;
-}
-
-.reflection {
-    transform-origin: 50% 110%;
-    transform: scaleY(-1);
-    opacity: 0.09;
-}
-
-
-
 @media (min-width:576px){
     .float-sm-start{
         float:left!important
