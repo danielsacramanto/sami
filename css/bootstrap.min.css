@@ -6744,9 +6744,8 @@ $loader-svg-height: 200px;
     height: 0;
 }
 
-body,
-.main-view-container {
-    width: 100vw;
+body, .main-view-container {
+    width: 100%;
     height: 100vh;
     margin: 0;
     padding: 0;
